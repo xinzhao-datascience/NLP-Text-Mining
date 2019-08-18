@@ -1,4 +1,4 @@
-**Abstract**
+**Abstract:**
 
 Canadian regulations cover a wide range of departments and regulatory agencies
 and with the immense increases in regulations, topic modelling with Latent
